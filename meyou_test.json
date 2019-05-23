@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Abstracts",
+      "tensorShape": [
+        2871,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/ni40in/text_embeddings_demo/master/top5_sorted.txt",
+      "metadataPath": "https://raw.githubusercontent.com/ni40in/text_embeddings_demo/master/meyou_names.txt"
+    }
+  ]
+}
